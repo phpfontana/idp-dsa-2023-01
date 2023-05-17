@@ -6,11 +6,10 @@ This repo contains code tutorial on how to implement basic data structures with 
 ```bash
 git clone https://github.com/phpfontana/Data-Structures-IDP.git
 cd Data-Structures-IDP/tutorials/project_name
-
 ``` 
 
 # Table of Contents
-- [Data Structures - IDP](#data-structures---idp)
+- [Data Structures](#data-structures---idp)
 - [Quickstart](#quickstart)
 - [Table of Contents](#table-of-contents)
 - [Licence](#license)

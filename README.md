@@ -9,11 +9,27 @@ cd Data-Structures-IDP/tutorials/project_name
 ``` 
 
 # Table of Contents
-- [Data Structures](#data-structures---idp)
-- [Quickstart](#quickstart)
-- [Table of Contents](#table-of-contents)
-- [Licence](#license)
-- [Feedback](#feedback)
+**1. Linked Lists**
+- Singly
+- Doubly
+- Circular
+- Circular Doubly
+
+**2. Queues**
+- Array Queue
+- Linked List Queue
+
+**3. Stacks**
+- Array Stack
+- Linked List Stack
+
+**4. Recursion**
+- Power
+- Factorial
+- Fibonacci
+
+**5. Binary Trees**
+TBA
 
 # License
 [(Back to top)](#table-of-contents)

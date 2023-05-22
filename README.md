@@ -12,8 +12,6 @@ cd Data-Structures-IDP/tutorials/project_name
 #### 1. Linked Lists
 * Singly
 * Doubly
-* Circular
-* Circular Doubly
 
 #### 2. Queues
 * Array Queue

@@ -9,34 +9,33 @@ cd Data-Structures-IDP/tutorials/project_name
 ``` 
 
 # Table of Contents
-**1. Linked Lists**
-- Singly
-- Doubly
-- Circular
-- Circular Doubly
+#### 1. Linked Lists
+* Singly
+* Doubly
+* Circular
+* Circular Doubly
 
-**2. Queues**
-- Array Queue
-- Linked List Queue
+#### 2. Queues
+* Array Queue
+* Linked List Queue
 
-**3. Stacks**
-- Array Stack
-- Linked List Stack
+#### 3. Stacks
+* Array Stack
+* Linked List Stack
 
-**4. Recursion**
-- Power
-- Factorial
-- Fibonacci
+#### 4. Recursion
+* Power
+* Factorial
+* Fibonacci
 
-**5. Binary Trees**
+#### 5. Binary Trees
 TBA
 
 # License
-[(Back to top)](#table-of-contents)
 
 This tutorial is made available under the MIT License. Feel free to use and modify the code as you see fit.
 
 # Feedback
-[(Back to top)](#table-of-contents)
+[(Back to top)](#data-structures---idp)
 
 If you have any suggestions or questions about this tutorial, please open an issue or contact me directly. Your feedback is greatly appreciated!

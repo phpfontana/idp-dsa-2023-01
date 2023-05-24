@@ -10,16 +10,16 @@ cd Data-Structures-IDP/tutorials/project_name
 
 # Table of Contents
 #### 1. Linked Lists
-* Singly
-* Doubly
+* [Singly](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/01-linked-lists/singly/singly.c)
+* [Doubly](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/01-linked-lists/doubly/doubly.c)
 
 #### 2. Queues
-* Array Queue
-* Linked List Queue
+* [Queue w/ array](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/02-queues/array_queue/queue.c)
+* [Queue w/ linked list](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/02-queues/list_queue/queue.c)
 
 #### 3. Stacks
-* Array Stack
-* Linked List Stack
+* [Stack w/ array](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/03-stacks/array-stack/stack.c)
+* [Stack w/ linked list](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/03-stacks/list-stack/stack.c)
 
 #### 4. Recursion
 * Power

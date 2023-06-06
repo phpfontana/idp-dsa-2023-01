@@ -10,24 +10,27 @@ cd Data-Structures-IDP/tutorials/project_name
 
 # Table of Contents
 #### 1. Linked Lists
-* [Singly](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/01-linked-lists/singly/singly.c)
-* [Doubly](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/01-linked-lists/doubly/doubly.c)
+* Singly Linked List
+* Doubly Linked List
+* Applications
 
 #### 2. Queues
-* [Queue w/ array](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/02-queues/array_queue/queue.c)
-* [Queue w/ linked list](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/02-queues/list_queue/queue.c)
+* Queue w/ array
+* Queue w/ linked list
+* Applications
 
 #### 3. Stacks
-* [Stack w/ array](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/03-stacks/array-stack/stack.c)
-* [Stack w/ linked list](https://github.com/phpfontana/Data-Structures-IDP/blob/main/tutorials/03-stacks/list-stack/stack.c)
+* Stack w/ array
+* Stack w/ linked list
+* Applications
 
-#### 4. Recursion
-* Power
-* Factorial
-* Fibonacci
+#### 4. Trees
+* Binary Tree 
+* Binary Search Tree
+* Generic Tree
+* Applications
 
-#### 5. Binary Trees
-TBA
+#### 5. Graphs
 
 # License
 

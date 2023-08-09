@@ -1,4 +1,4 @@
-# Data Structures - IDP
+# Data Structures - 2023/01
 This repo contains code tutorial on how to implement basic data structures with C.
 
 # Quickstart
